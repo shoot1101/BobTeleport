@@ -33,3 +33,43 @@ Ce script a été développé par Bob's & Co.
 Contribution :
 
 Les contributions sont les bienvenues ! N'hésitez pas à signaler des problèmes ou à soumettre des demandes de fonctionnalités.# BobTeleport
+
+
+
+Teleportation Script for FiveM
+
+This script enables the teleportation of vehicles and players on your FiveM server. 
+It offers great flexibility, including the ability to block or allow vehicle teleportation, as well as the option to create multiple teleportation points. 
+All configurations are easily adjustable in the configuration file.
+
+
+Features :
+
+Vehicle and player teleportation: Players can be teleported individually or with their vehicles.
+Block vehicle teleportation: Option to allow or block vehicle teleportation.
+Create multiple teleportation points: Define several teleportation locations within the environment.
+Flexible configuration: Fully customize the settings through the configuration file.
+
+
+Configuration
+The configuration file (config.lua) includes the following settings:
+
+teleportvehicle: Allows you to enable or disable vehicle teleportation (true or false).
+spawnloc: List of teleportation points, defined by a position and a name.
+
+
+Installation :
+
+Ensure you have a functional FiveM environment.
+Place the script in the appropriate folder of your FiveM server.
+Configure the settings in the config.lua file according to your preferences.
+
+
+Author :
+
+This script was developed by Bob's & Co.
+
+
+Contributing :
+
+Contributions are welcome! Feel free to report issues or submit feature requests.
